@@ -1,4 +1,4 @@
-# apneck
+# Pradeeep Readymade - online shopping store
 APP.JS
 
 Apneck is a responsive full eccomerce website
